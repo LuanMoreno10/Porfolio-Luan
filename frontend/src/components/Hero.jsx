@@ -11,7 +11,7 @@ function Hero() {
         <p className="hero-role">Software Engineer</p>
         <h1 className="hero-name">Luan Moreno</h1>
         <p className="hero-desc">
-          Fusce tempor magna mi, non egestas velit ultricies nec. Aenean convallis, risus non condimentum gravida, odio mauris ullamcorper felis, ut venenatis purus ex ou mi. Quisque imperdiet lacinia urna, a placerat sapien pretium eu.
+          I am a recent Computer Engineering graduate with a strong interest in software development, networks, security, and systems administration. What drives me is the challenge of turning ideas into practical solutions that add real value and make everyday life easier.
         </p>
         <div className="hero-actions">
           <a href="/cv.pdf" download="Cv-Luan.pdf" className="btn btn-primary">Download CV</a>

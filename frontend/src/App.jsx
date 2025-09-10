@@ -17,7 +17,7 @@ export default function App() {
         <Skills /> {/* Fourth section - My skills */}
         <Contact /> {/* Fifth section - Contact me */}
       </main>
-      <footer className="footer">{new Date().getFullYear()} Luan Moreno ©</footer>
+      <footer className="footer">@ {new Date().getFullYear()} Luan Moreno</footer>
     </>
   );
 }
